@@ -107,7 +107,7 @@ This project is available for use by Unique Best Cleaning Services. All rights r
 - Bootstrap 5
 - Font Awesome
 - Google Fonts
-- Developer: [Your Name/Team Name]
+- Developer: Prathmesh Jadhav
 
 ---
 
