@@ -2,7 +2,7 @@
 
 This repository contains the source code for the Unique Best Cleaning Services website, a professional cleaning service provider based in Bhayander West, Thane.
 
-🔗 **Live Website**: [https://patu2510.github.io/unique-cleaning-site/](https://patu2510.github.io/unique-cleaning-site/)
+🔗 **Live Website**: [https://patu2510.github.io/UNIQUE-BEST-CLEANING.com/](https://patu2510.github.io/UNIQUE-BEST-CLEANING.com/)
 
 ## Overview
 
@@ -72,7 +72,7 @@ The website displays contact information for Unique Best Cleaning Services:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/patu2510/unique-cleaning-site.git
+   git clone https://github.com/patu2510/UNIQUE-BEST-CLEANING.com.git
    ```
 2. Open `index.html` in your browser or use a local development server
 
